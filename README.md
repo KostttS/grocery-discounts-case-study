@@ -4,6 +4,15 @@ Mobile app concept for searching grocery discounts, promotions and store offers 
 
 The project focused on helping users find discounted products, compare offers, build a basket and estimate store distance.
 
+
+## Visual preview
+
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/a27b16210074089.670ac1463ae7a.png" alt="Grocery Discounts app screens" width="85%">
+</p>
+
+[View the complete visual case study on Behance](https://www.behance.net/gallery/210074089/Grocery-search)
+
 ---
 
 ## My role
